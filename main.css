@@ -53,6 +53,17 @@ li{
     color: var(--btnFontColor);
     background-color: var(--btnBg);
 }
+button{
+    position:absolute;
+    top: 20px;
+    left: 100px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: none;
+    color: var(--btnFontColor);
+    background-color: var(--btnBg);
+}
 #container{
     padding-top: 4px;
 }
